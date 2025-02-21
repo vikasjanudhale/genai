@@ -195,3 +195,4 @@ zipp==3.21.0
 zstandard==0.23.0
 pypdf
 PyPDF2
+langchain_community
